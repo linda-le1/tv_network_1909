@@ -25,7 +25,7 @@ class Network
 # and then select the highest paid actor and print it out.
   # def highest_paid_actor
     # max_salary = @characters.max_by{ |x| x[:salary] }[:salary]
-    # highest_paid_actor = @characters.select { |x| x[:salary] == max_score }
+    # highest_paid_actor = @characters.select { |x| x[:salary] == max_salary }
     #                      map { |h| h[:name] }
     # puts highest_paid_actor
   end
